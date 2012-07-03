@@ -1,0 +1,128 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/d:Connection/f:TeamCityCaller.cs" caret="1775" fromTop="24" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/f:TeamCityClient.cs" caret="969" fromTop="25" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:convert/f:ProjectFailConverter.cs" caret="0" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:convert/f:HeadlineConverter.cs" caret="0" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:ProjectsControl.xaml.cs" caret="2144" fromTop="13" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:BuildControl.xaml.cs" caret="0" fromTop="0" />
+      <File id="d:Sonstige Dateien/f:CPOPViewController.h" caret="536" fromTop="22" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:ProjectControl.xaml.cs" caret="0" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:convert/f:MessageConverter.cs" caret="1153" fromTop="36" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/d:DomainEntities/f:File.cs" caret="0" fromTop="0" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/d:DomainEntities/f:ChangeWrapper.cs" caret="0" fromTop="0" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/d:DomainEntities/f:Credentials.cs" caret="0" fromTop="0" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/d:DomainEntities/f:Change.cs" caret="0" fromTop="0" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/d:DomainEntities/f:BuildWrapper.cs" caret="0" fromTop="0" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/d:DomainEntities/f:BuildConfig.cs" caret="0" fromTop="0" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/d:DomainEntities/f:BuildTypeWrapper.cs" caret="0" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:classes/f:Project.cs" caret="458" fromTop="16" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:Settings.cs" caret="40" fromTop="1" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:Properties/f:Resources.Designer.cs" caret="1205" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:App.xaml.cs" caret="0" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:Program.cs" caret="346" fromTop="14" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:Configuration.xaml" caret="400" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml" caret="2246" fromTop="40" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:ProjectsControl.xaml" caret="753" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:BuildControl.xaml" caret="1081" fromTop="8" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:ProjectControl.xaml" caret="1076" fromTop="8" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml.cs" caret="2580" fromTop="36" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:Configuration.xaml.cs" caret="8362" fromTop="19" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:Properties/f:Settings.Designer.cs" caret="3443" fromTop="18" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml.cs" caret="3747" fromTop="18" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml.cs" caret="3603" fromTop="14" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:ProjectControl.xaml" caret="1422" fromTop="8" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:Program.cs" caret="1254" fromTop="14" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:ProjectControl.xaml" caret="1076" fromTop="4" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:BuildControl.xaml" caret="906" fromTop="1" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml" caret="954" fromTop="3" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml" caret="2140" fromTop="9" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml" caret="1332" fromTop="3" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml" caret="1822" fromTop="5" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:controls/f:BuildControl.xaml.cs" caret="0" fromTop="0" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/f:TeamCityClient.cs" caret="744" fromTop="27" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/f:TeamCityClient.cs" caret="1031" fromTop="37" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/f:TeamCityClient.cs" caret="1012" fromTop="29" />
+      <File id="87598714-132F-478E-866E-8C1AF3E83057/d:Connection/f:TeamCityCaller.cs" caret="1775" fromTop="24" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml.cs" caret="3022" fromTop="27" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml.cs" caret="2483" fromTop="18" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml.cs" caret="2514" fromTop="11" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:ScreenSaver.xaml.cs" caret="2844" fromTop="20" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:Configuration.xaml.cs" caret="8334" fromTop="26" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:Properties/f:Settings.Designer.cs" caret="0" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:Settings.cs" caret="32" fromTop="0" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:Properties/f:Settings.Designer.cs" caret="1281" fromTop="24" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:Properties/f:Settings.Designer.cs" caret="1710" fromTop="24" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:Properties/f:Settings.Designer.cs" caret="2133" fromTop="21" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:Properties/f:Settings.Designer.cs" caret="2569" fromTop="12" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:Properties/f:Settings.Designer.cs" caret="3005" fromTop="24" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/f:Configuration.xaml.cs" caret="1628" fromTop="21" />
+      <File id="E7CE2E12-DC67-4161-A04E-536153E86B63/d:Properties/f:Settings.Designer.cs" caret="3441" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="buildConfigs" priority="31" />
+      <Item value="if" priority="31" />
+      <Item value="mClient" priority="31" />
+      <Item value="projects" priority="31" />
+      <Item value="ProjectsPanelCtrl" priority="31" />
+      <Item value="try" priority="63" />
+      <Item value="return" priority="31" />
+      <Item value="new" priority="31" />
+      <Item value="List&lt;Project&gt;" priority="57" />
+      <Item value="ArgumentNullException`0" priority="31" />
+      <Item value="var" priority="31" />
+      <Item value="allprojects" priority="63" />
+      <Item value="ListBindableAttribute`0" priority="31" />
+      <Item value="Project" priority="30" />
+      <Item value="tempProjectList" priority="31" />
+      <Item value="Settings`0" priority="31" />
+      <Item value="Delay" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TeamCitySharp.TeamCityClient">
+      <Item value="BuildConfigsByBuildConfigId`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mo.TeamCityScreensaver.classes.Project">
+      <Item value="Name" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Count" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Mo.TeamCityScreensaver.controls.ProjectsControl">
+      <Item value="ProjectsItemsCtrl" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemsControl">
+      <Item value="ItemContainerGenerator" priority="26" />
+      <Item value="Padding" priority="26" />
+      <Item value="Parent" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Mo.TeamCityScreensaver.Properties.Settings">
+      <Item value="Default" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Mo.TeamCityScreensaver.Settings">
+      <Item value="Default" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,134 @@
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.exe.config
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.exe
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.pdb
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCitySharp.dll
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\EasyHttp.dll
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\JsonFx.dll
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\StructureMap.dll
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCitySharp.pdb
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\EasyHttp.pdb
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\JsonFx.xml
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\StructureMap.pdb
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\StructureMap.xml
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\Configuration.baml
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\BuildControl.baml
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\TotalControl.baml
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\Configuration.g.cs
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\BuildControl.g.cs
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectControl.g.cs
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectsControl.g.cs
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\TotalControl.g.cs
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\ScreenSaver.g.cs
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\App.g.cs
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver_MarkupCompile.cache
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver_MarkupCompile.lref
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectControl.baml
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectsControl.baml
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\ScreenSaver.baml
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.g.resources
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\Mo.TeamCityScreensaver.Properties.Resources.resources
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\GenerateResource.read.1.tlog
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\GenerateResource.write.1.tlog
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.exe
+C:\Dokumente und Einstellungen\Flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.pdb
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.exe.config
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.exe
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.pdb
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.exe
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.pdb
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCitySharp.dll
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\EasyHttp.dll
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\JsonFx.dll
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\StructureMap.dll
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\TeamCitySharp.pdb
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\EasyHttp.pdb
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\JsonFx.xml
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\StructureMap.pdb
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\bin\Debug\StructureMap.xml
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\Configuration.baml
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\BuildControl.baml
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\Configuration.g.cs
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\BuildControl.g.cs
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectControl.g.cs
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectsControl.g.cs
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\ScreenSaver.g.cs
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\App.g.cs
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver_MarkupCompile.cache
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver_MarkupCompile.lref
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectControl.baml
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectsControl.baml
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\ScreenSaver.baml
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.g.resources
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\Mo.TeamCityScreensaver.Properties.Resources.resources
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\flo\Desktop\Source\WPF_ScreenSaver\obj\Debug\GenerateResource.write.1.tlog
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.exe.config
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.exe
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.pdb
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.exe
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.pdb
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCitySharp.dll
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\EasyHttp.dll
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\JsonFx.dll
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\StructureMap.dll
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCitySharp.pdb
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\EasyHttp.pdb
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\JsonFx.xml
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\StructureMap.pdb
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\StructureMap.xml
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\ResolveAssemblyReference.cache
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\Configuration.baml
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\BuildControl.baml
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\Configuration.g.cs
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\BuildControl.g.cs
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectControl.g.cs
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectsControl.g.cs
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\ScreenSaver.g.cs
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\App.g.cs
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver_MarkupCompile.cache
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver_MarkupCompile.lref
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectControl.baml
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectsControl.baml
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\ScreenSaver.baml
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.g.resources
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\Mo.TeamCityScreensaver.Properties.Resources.resources
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\GenerateResource.read.1.tlog
+C:\workspace\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\GenerateResource.write.1.tlog
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.exe.config
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.exe
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.exe
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCityScreensaver.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCitySharp.dll
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\EasyHttp.dll
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\JsonFx.dll
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\StructureMap.dll
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\TeamCitySharp.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\EasyHttp.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\JsonFx.xml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\StructureMap.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\bin\Debug\StructureMap.xml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\ResolveAssemblyReference.cache
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\Configuration.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\Configuration.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\BuildControl.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectControl.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectsControl.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\ScreenSaver.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\App.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver_MarkupCompile.cache
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver_MarkupCompile.lref
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\BuildControl.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectControl.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\controls\ProjectsControl.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\ScreenSaver.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\TeamCityScreensaver.g.resources
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\Mo.TeamCityScreensaver.Properties.Resources.resources
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\GenerateResource.read.1.tlog
+D:\repos\scratch\fa\TeamCity Screensaver\Source\WPF_ScreenSaver\obj\Debug\GenerateResource.write.1.tlog

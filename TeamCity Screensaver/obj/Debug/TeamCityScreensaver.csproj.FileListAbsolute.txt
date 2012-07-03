@@ -1,0 +1,99 @@
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCityScreensaver.exe.config
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCityScreensaver.exe
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCityScreensaver.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCitySharp.dll
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\EasyHttp.dll
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\JsonFx.dll
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\StructureMap.dll
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCitySharp.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\EasyHttp.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\JsonFx.xml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\StructureMap.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\StructureMap.xml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\ResolveAssemblyReference.cache
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\Configuration.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\Configuration.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\BuildControl.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\ProjectControl.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\ProjectsControl.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\ScreenSaver.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\App.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver_MarkupCompile.cache
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver_MarkupCompile.lref
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\BuildControl.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\ProjectControl.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\ProjectsControl.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\ScreenSaver.baml
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver.g.resources
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\Mo.TeamCityScreensaver.Properties.Resources.resources
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\GenerateResource.read.1.tlog
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\GenerateResource.write.1.tlog
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver.exe
+D:\repos\scratch\fa\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver.pdb
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCityScreensaver.exe.config
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver.exe
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver.pdb
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCityScreensaver.exe
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCityScreensaver.pdb
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCitySharp.dll
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\EasyHttp.dll
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\JsonFx.dll
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\StructureMap.dll
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\TeamCitySharp.pdb
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\EasyHttp.pdb
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\JsonFx.xml
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\StructureMap.pdb
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\bin\Debug\StructureMap.xml
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\ResolveAssemblyReference.cache
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\Configuration.baml
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\Configuration.g.cs
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\BuildControl.g.cs
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\ProjectControl.g.cs
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\ProjectsControl.g.cs
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\ScreenSaver.g.cs
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\App.g.cs
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver_MarkupCompile.cache
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver_MarkupCompile.lref
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\BuildControl.baml
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\ProjectControl.baml
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\controls\ProjectsControl.baml
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\ScreenSaver.baml
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\TeamCityScreensaver.g.resources
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\Mo.TeamCityScreensaver.Properties.Resources.resources
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\GenerateResource.read.1.tlog
+D:\repos\codeplex\TeamCity Screensaver\Source\TeamCityScreensaver\obj\Debug\GenerateResource.write.1.tlog
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\TeamCityScreensaver.exe.config
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\TeamCityScreensaver.exe
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\TeamCityScreensaver.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\ResolveAssemblyReference.cache
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\Configuration.baml
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\Configuration.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\controls\BuildControl.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\controls\ProjectControl.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\controls\ProjectsControl.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\ScreenSaver.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\App.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\TeamCityScreensaver_MarkupCompile.cache
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\TeamCityScreensaver_MarkupCompile.lref
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\TeamCityScreensaver.exe
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\TeamCityScreensaver.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\TeamCitySharp.dll
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\EasyHttp.dll
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\JsonFx.dll
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\StructureMap.dll
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\TeamCitySharp.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\EasyHttp.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\JsonFx.xml
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\StructureMap.pdb
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\bin\Debug\StructureMap.xml
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\controls\BuildControl.baml
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\controls\ProjectControl.baml
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\controls\ProjectsControl.baml
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\ScreenSaver.baml
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\TeamCityScreensaver.g.resources
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\Mo.TeamCityScreensaver.Properties.Resources.resources
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\GenerateResource.read.1.tlog
+D:\repos\scratch\fa\TeamCity Screensaver\TeamCity Screensaver\obj\Debug\GenerateResource.write.1.tlog
